@@ -1,0 +1,4 @@
+import Code2040 from 'http://challenge.code2040.org/api/register'
+const api = Code2040({
+  github: 'http://www.github.com/ywilsonj/Code2040',
+  token: 447136e32ee56c99395a8ce5328a3c87
